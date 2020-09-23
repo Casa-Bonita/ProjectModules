@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcAPI/CalcAPI.iml" filepath="$PROJECT_DIR$/CalcAPI/CalcAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcConsoleImpl/CalcConsoleImpl.iml" filepath="$PROJECT_DIR$/CalcConsoleImpl/CalcConsoleImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcConsoleImpl/CalcRandomImpl.iml" filepath="$PROJECT_DIR$/CalcConsoleImpl/CalcRandomImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcRandomimpl/CalcRandomimpl.iml" filepath="$PROJECT_DIR$/CalcRandomimpl/CalcRandomimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcService/CalcService.iml" filepath="$PROJECT_DIR$/CalcService/CalcService.iml" />
+    </modules>
+  </component>
+</project>
